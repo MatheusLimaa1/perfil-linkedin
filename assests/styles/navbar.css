@@ -1,0 +1,20 @@
+.navbar {
+    background-color: var(--fundo-card);
+    display: flex;
+    justify-content: space-around;
+    height: 52px;
+}
+
+.navbar-busca {
+    display: flex;
+    align-items: center;
+    width: 370px;
+}
+
+.navbar-logo-linkedin {
+    background-image: url(../icones/logo-linkedin.svg);
+    width: 34px;
+    height: 34px;
+    background-repeat: no-repeat;
+    background-position: center;
+}

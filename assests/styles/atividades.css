@@ -1,0 +1,14 @@
+.atividades {
+    width: 780px;
+    height: 371px;
+    border: 1px solid var(--fundo-card);
+    margin-left: 153px;
+    margin-top: 14px;
+    border-radius: 16px;
+    background: var(--fundo-card);
+}
+
+.atividades-card {
+    display: flex;
+    flex-direction: column;
+}

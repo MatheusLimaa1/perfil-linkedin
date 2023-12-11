@@ -1,0 +1,83 @@
+.perfil {
+    margin-top: 24px;
+    margin-left: 154px;
+    height: 468px;
+    width: 780px;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--fundo-card);
+    border-radius: 16px;
+}
+
+.perfil-capa {
+    background-image: url(../imagens/Imagem\ de\ capa.svg);
+    width: 780px;
+    height: 230px;
+}
+
+.foto-perfil {
+   margin-top: 118px;
+   margin-left: 24px;
+}
+
+.perfil-informacoes {
+    display: flex;
+    flex-direction: column;
+}
+
+.perfil-informacoes-texto {
+    margin-top: 56px;
+    margin-left: 29px;
+    padding-bottom: 4px;
+}
+
+.titulo{
+    font-size: 24px;
+    font-weight: 600;
+    color: var(--texto-primario);
+}
+
+.tags {
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--texto-primario);
+    margin-top: 4px;
+}
+
+.linguagens {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--texto-secundario);
+    margin-top: 5px;
+}
+
+.perfil-informacoes-localidade {
+    margin-left: 29px;
+    display: flex;
+    gap: 2px;
+}
+
+.cidade {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--texto-secundario);
+    margin-top: 4px;
+}
+
+.ponto {
+    width: 2px;
+    height: 2px;
+    margin: 10px 5px;
+    background-color: var(--texto-secundario);
+}
+
+.contato {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--primario);
+    margin-top: 4px;
+}
+
+.perfil-informacoes-seguidor {
+    display: flex;
+}

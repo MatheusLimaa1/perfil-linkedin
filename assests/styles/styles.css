@@ -5,9 +5,9 @@
     --fundo-card: #1B2226;
     --cor-imput: #38434F;
     --primario: #70B5F9;
-    --texto-escuro: #000000BF 75%;
-    --texto-primario: #FFFFFFE5 95%;
-    --texto-secubdario: #FFFFFF99 60%;
+    --texto-escuro: #000000BF;
+    --texto-primario: #FFFFFFE5;
+    --texto-secundario: #FFFFFF99;
 }
 
 * {

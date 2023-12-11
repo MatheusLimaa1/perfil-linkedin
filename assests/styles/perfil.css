@@ -1,4 +1,4 @@
-.perfil {
+.perfil{
     margin-top: 24px;
     margin-left: 154px;
     height: 468px;
@@ -7,6 +7,11 @@
     flex-direction: column;
     background-color: var(--fundo-card);
     border-radius: 16px;
+}
+
+.perfil-geral {
+    display: flex;
+    flex-direction: column;
 }
 
 .perfil-capa {
@@ -21,6 +26,10 @@
 }
 
 .perfil-informacoes {
+    display: flex;
+}
+
+.perfil-informacoes-textos{
     display: flex;
     flex-direction: column;
 }
@@ -80,4 +89,69 @@
 
 .perfil-informacoes-seguidor {
     display: flex;
+    margin-left: 29px;
+    gap: 2px;
 }
+
+.perfil-informacoes-seguidor-texto {
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--primario);
+    margin-top: 4px;
+}
+
+.perfil-botoes {
+    display: flex;
+    gap: 7px;
+    margin-left: 29px;
+}
+
+.perfil-botoes-mensagem {
+    border: 1px solid var(--primario);
+    background-color: var(--primario);
+    color: var(-texto-escuro);
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+    width: 128px;
+    height: 32px;
+    text-align: center;
+    padding: 10px 0;
+    border-radius: 16px;
+    margin-top: 5px;
+}
+
+.perfil-botoes-mais {
+    border: 1px solid var(--primario);
+    background-color: var(--fundo-card);
+    color: var(--primario);
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+    width: 128px;
+    height: 32px;
+    text-align: center;
+    padding: 10px 0;
+    border-radius: 16px;
+    margin-top: 5px;
+}
+
+.informacoes-imagens { 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 130px;
+    gap: 8px
+
+}
+
+.informacoes-imagens-empresa {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--texto-primario);
+}
+
+

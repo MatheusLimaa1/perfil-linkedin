@@ -109,7 +109,7 @@
 .perfil-botoes-mensagem {
     border: 1px solid var(--primario);
     background-color: var(--primario);
-    color: var(-texto-escuro);
+    color: var(--texto-escuro);
     font-size: 14px;
     font-weight: 500;
     text-decoration: none;

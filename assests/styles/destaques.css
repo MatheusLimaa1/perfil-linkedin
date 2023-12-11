@@ -1,6 +1,6 @@
 .destaques {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     width: 780px;
     height: 312px;
     background: var(--fundo-card);
@@ -9,10 +9,55 @@
     border-radius: 16px;
 }
 
-.titulo {
+.destaques-titulo {
     font-size: 20px;
     font-weight: 600;
     color: var(--texto-primario);
-    margin-top: 16px;
-    margin-left: 24px;
+    margin-top: 17px;
+    margin-left: 23px;
 }
+
+.destaques-publicacoes {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    gap: 5px;
+}
+
+.destaques-publicacoes-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 236px;
+    height: 236px;
+    border: 1px solid var(--texto-secundario);
+    border-radius: 8px;
+}
+
+.destaques-publicacoes-card-textos {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.texto-1 {
+    font-size: 12px;
+    font-weight: 400;
+    color: var(--texto-secundario);
+    margin-top: 12px;
+    margin-left: 14px;
+}
+
+.texto-2 {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--texto-secundario);
+    margin-left: 14px;
+}
+
+.imagem-destaque {
+    width: 100%;
+   height: 152px;
+   object-fit: cover;
+}
+

@@ -1,0 +1,18 @@
+.destaques {
+    display: flex;
+    flex-direction: row;
+    width: 780px;
+    height: 312px;
+    background: var(--fundo-card);
+    margin-left: 153px;
+    margin-top: 8px;
+    border-radius: 16px;
+}
+
+.titulo {
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--texto-primario);
+    margin-top: 16px;
+    margin-left: 24px;
+}

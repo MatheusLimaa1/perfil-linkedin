@@ -1,0 +1,10 @@
+.card-lateral-1 {
+    width: 320px;
+    height: 546px;
+    border: 1px solid var(--fundo-card);
+    background-color: var(--fundo-card);
+    margin-right: 154px;
+    margin-top: 24px;
+    margin-left: 32px;
+    border-radius: 16px;
+}

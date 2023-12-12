@@ -1,0 +1,9 @@
+.experiencias {
+    width: 780px;
+    height: 358px;
+    border: 1px solid var(--fundo-card);
+    background: var(--fundo-card);
+    margin-top: 8px;
+    margin-left: 154px;
+    border-radius: 16px;
+}

@@ -37,11 +37,75 @@
     display: flex;
     margin-top: 13px;
     margin-left: 24px;
-    gap: 5px;
-    text-align: center;
+    align-items: center;
 }
 
-.ponto {
-    width: 2px;
-    height: 2px;
+.texto_1 {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--texto-secundario);
+    padding-right: 4px;
+}
+
+.texto-2 {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--texto-secundario);
+    margin-left: 0;
+}
+
+.atividades-card-conteudo {
+    display: flex;
+    margin-top: 8px;
+    margin-left: 24px;
+    gap: 8px;
+    align-items: center;
+}
+
+.img-1 {
+    width: 64px;
+    height: 64px;
+}
+
+.atividades-card-conteudo-texto {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--texto-primario);
+    text-align: justify;
+    margin-right: 24px;
+}
+
+.atividades-card-reacoes {
+    display: flex;
+    margin-top: 5px;
+    margin-left: 24px;
+    align-items: center;
+}
+
+.reacoes-numero {
+    font-size: 12px;
+    font-weight: 400;
+    color: var(--texto-secundario);
+    padding-left: 5px;
+}
+
+.reacoes-comentarios {
+    font-size: 12px;
+    font-weight: 400;
+    color: var(--texto-secundario);
+    margin-left: 599px;
+}
+
+.linha-atividade {
+    width: 734px;
+    height: 1px;
+    background: var(--texto-secundario);
+    margin-top: 10px;
+}
+
+.ativiade-rodape {
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--texto-secundario);
+    margin: 8px 305px;
 }

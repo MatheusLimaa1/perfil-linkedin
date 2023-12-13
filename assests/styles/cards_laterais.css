@@ -47,8 +47,26 @@
 .botao-card {
     margin-left: 69px;
     margin-right: 97px;
-    margin-top: 14px;
+    margin-top: 3px;
     border: 1px solid var(--texto-primario);
     padding: 7px 16px;
     font-size: 14px;
+    border-radius: 16px;
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--texto-primario);
+    text-decoration: none;
+}
+
+.cards-laterais-2 {
+    width: 320px;
+    height: 546px;
+    border: 1px solid var(--fundo-card);
+    background-color: var(--fundo-card);
+    margin-right: 154px;
+    margin-top: 579px;
+    margin-left: 32px;
+    border-radius: 16px;
+    display: flex;
+ 
 }

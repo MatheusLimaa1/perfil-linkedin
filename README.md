@@ -6,7 +6,7 @@ Recriando página de perfil do Linkedin usando apenas com HTML e CSS
 | -------------  | --- |
 | :sparkles: Nome        | **7DaysOfCode - HTML e CSS (Linkedin)**
 | :label: Tecnologias | HTML, CSS
-| :rocket: URL         | (https://perfil-linkedin.vercel.app/)]
+| :rocket: URL         | https://perfil-linkedin.vercel.app/
 | :fire: Desafio     | https://7daysofcode.io/matricula/html-css-linkedin
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->

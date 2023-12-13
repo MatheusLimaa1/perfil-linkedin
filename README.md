@@ -6,11 +6,11 @@ Recriando página de perfil do Linkedin usando apenas com HTML e CSS
 | -------------  | --- |
 | :sparkles: Nome        | **7DaysOfCode - HTML e CSS (Linkedin)**
 | :label: Tecnologias | HTML, CSS
-| :rocket: URL         | https://natalia-fs.github.io/7Daysofcode-linkedin/
+| :rocket: URL         | (https://perfil-linkedin.vercel.app/)]
 | :fire: Desafio     | https://7daysofcode.io/matricula/html-css-linkedin
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/natalia-fs/7Daysofcode-linkedin/blob/main/preview.png?raw=true#vitrinedev)
+![](https://vercel.com/matheuslimaa1/perfil-linkedin/12Y3u6tPFQiH5TdBBkTrxXUASi8Z)
 
 ## Detalhes do projeto
 

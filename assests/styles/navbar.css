@@ -2,31 +2,31 @@
     background-color: var(--fundo-card);
     display: flex;
     justify-content: space-around;
-    height: 3.25rem;
+    height: 52px;
 
 }
 
 .navbar-busca {
     display: flex;
     align-items: center;
-    width: 23.12rem;
+    width: 370px;
     position: relative;
 }
 
 .navbar-logo-linkedin {
     background-image: url(../icones/logo-linkedin.svg);
-    width: 2.12rem;
-    height: 2.12rem;
+    width: 34px;
+    height: 34px;
     background-repeat: no-repeat;
     background-position: center;
     cursor: pointer;
-    margin-right: 0.7rem;
+    margin-right: 8px;
 }
 
 .navbar-busca-icone {
     background-image: url(../icones/icone-busca.svg);
-    width: 1.rem;
-    height: 1.5rem;
+    width: 24px;
+    height: 24px;
     position: absolute;
     left: 50px;
 }
@@ -62,40 +62,40 @@
 
 .navbar-item-inicio {
     background-image: url(../icones/icone-inicio.svg);
-    width: 1.5rem;
-    height: 1.5rem;
+    width: 24px;
+    height: 24px;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .navbar-item-rede {
     background-image: url(../icones/icone-minha-rede.svg);
-    width: 1.5rem;
-    height: 1.5remx;
+    width: 24px;
+    height: 24px;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .navbar-item-vagas {
     background-image: url(../icones/icone-vagas.svg);
-    width: 1.5rem;
-    height: 1.5rem;
+    width: 24px;
+    height: 24px;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .navbar-item-mensagens {
     background-image: url(../icones/icone-mensagens.svg);
-    width: 1.5remx;
-    height: 1.5rem;
+    width: 24px;
+    height: 24px;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .navbar-item-notificacoes {
     background-image: url(../icones/icone-notificacoes.svg);
-    width: 1.5rem;
-    height: 1.5rem;
+    width: 24px;
+    height: 24px;
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -109,8 +109,8 @@
 
 .navbar-item-solucoes {
     background-image: url(../icones/icone-solucoes.svg);
-    width: 1.5rem;
-    height: 1.5rem;
+    width: 24px;
+    height: 24px;
     background-repeat: no-repeat;
     background-position: center;
 }
